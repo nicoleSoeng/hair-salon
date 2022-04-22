@@ -449,7 +449,7 @@
     height: 250px;
     width: 300px;
     border-radius: 4px;
-    background-image: url("/images/hairstyle-3.png");
+    background-image: url("images/hairstyle-3.png");
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -459,12 +459,12 @@
 }
 
 .services__card:nth-child(2) {
-    background-image: url("/images/hairstyle-4.png");
+    background-image: url("images/hairstyle-4.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 .services__card:nth-child(3) {
-    background-image: url("/images/hairstyle-2.png");
+    background-image: url("images/hairstyle-2.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -553,7 +553,7 @@
     border-radius: 4px;
     margin-right: 3rem;
     margin-left: 3rem;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url("/images/stylist-4.jpg");
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url("images/stylist-4.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     position: relative;
@@ -561,12 +561,12 @@
 }
 
 .stylist__card:nth-child(2) {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url("/images/stylist-7.jpg");
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url("images/stylist-7.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
 .stylist__card:nth-child(3) {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url("/images/stylist-3.jpg");
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url("images/stylist-3.jpg");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -721,7 +721,7 @@
 
 /*Services Page*/
 .services__wrapper {
-    background-image: url(/images/salon-image-1.jpg);
+    background-image: url(images/salon-image-1.jpg);
     background-size: cover;
     opacity: 1;
     background-color: #141414;
