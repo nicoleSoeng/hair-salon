@@ -384,7 +384,7 @@
     }
     
     #main__img {
-        height: 60%;
+        height: 50vh;
         width: auto;
     }
 }
@@ -394,7 +394,7 @@
         font-size: 2.5rem;
     }
     #main__img {
-        height: 70%;
+        height: 50vh;
         width: auto;
     }
     
