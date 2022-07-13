@@ -1,2 +1,2 @@
 # hair-salon
-Sample hair salon website utlizing HTML, CSS and JavaScript.
+Sample hair salon website utilizing HTML, CSS and JavaScript.
